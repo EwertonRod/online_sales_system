@@ -1,0 +1,5 @@
+product_id;warehouse_id;current_stock;last_updated
+101;W01;150;2024-01-01
+102;W02;200;2024-01-02
+103;W01;100;2024-01-01
+104;W03;80;2024-01-03

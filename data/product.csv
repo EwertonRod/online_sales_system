@@ -1,0 +1,5 @@
+product_id;name;category;subcategory;price;cost;stock
+101;Camiseta A;Vestuário;Camisetas;50.00;20.00;150
+102;Calça B;Vestuário;Calças;100.00;50.00;200
+103;Mochila C;Acessórios;Mochilas;80.00;40.00;100
+104;Tênis D;Calçados;Tênis;150.00;90.00;80

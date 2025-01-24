@@ -1,0 +1,5 @@
+customer_id;name;email;phone;birth_date;address;city;state;zip_code
+1001;Ana Pereira;ana@email.com;99999999999;1990-05-10;Rua A, 123;São Paulo;SP;01001-000
+1002;João Santos;joao@email.com;98888888888;1985-12-22;Av. B, 456;Rio de Janeiro;RJ;22000-000
+1003;Maria Oliveira;maria@email.com;97777777777;1993-07-15;Travessa C, 789;Belo Horizonte;MG;30100-000
+1004;Pedro Silva;pedro@email.com;96666666666;2000-02-03;Rua D, 321;Curitiba;PR;80500-000

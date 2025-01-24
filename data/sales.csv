@@ -1,0 +1,5 @@
+sale_id;product_id;customer_id;sale_date;sale_time;quantity;price;discount;channel
+1;101;1001;2024-01-01;14:32;2;50.00;0.10;Site
+2;102;1002;2024-01-02;16:45;1;30.00;0.00;App Mobile
+3;103;1003;2024-01-02;10:20;3;20.00;0.15;Marketplace
+4;104;1004;2024-01-03;09:15;1;40.00;0.05;Site
